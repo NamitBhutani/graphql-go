@@ -1,1 +1,1 @@
-init
+A graphQL client in go
