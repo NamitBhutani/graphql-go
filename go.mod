@@ -1,6 +1,6 @@
-module github.com/NamitBhutani/graphql-go
+module goGraphQL
 
-go 1.20
+go 1.21.0
 
 require (
 	github.com/99designs/gqlgen v0.17.36
